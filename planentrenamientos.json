@@ -1,0 +1,39 @@
+//entrenamientos
+[
+  { "id": "3456217",
+"plan":"embion"
+},
+  { "id":"3456218",
+"plan":"arranque"
+},
+{ "id":"3456219",
+"plan":"sentadillas"
+},
+{ "id": "3456220",
+"plan":"embion"
+},
+  { "id":"3456221",
+"plan":"arranque"
+},
+{ "id":"3456222",
+"plan":"sentadillas"
+},
+{ "id": "3456223",
+"plan":"embion"
+},
+{ "id":"3456224",
+"plan":"arranque"
+},
+{ "id":"3456225",
+"plan":"sentadillas"
+},
+{ "id": "3456226",
+"plan":"embion"
+},
+{ "id":"3456227",
+"plan":"arranque"
+},
+{ "id":"3456228",
+"plan":"sentadillas"
+}
+]

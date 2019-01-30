@@ -1,0 +1,67 @@
+//entrenadores
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "nombre": "Andrea",
+    "apellido": "Morales",
+    "cedula": "16534526",
+    "celular": "3214578398",
+    "dirección": "Cra 3 N° 67 Barrio Mocari",
+    "deportistas":[23, 24 ]
+  },
+
+  {
+    "userId": 1,
+    "id": 2,
+    "nombre":"Angelica",
+    "apellido":"Garcia",
+    "cedula":"67357891",
+    "celular":"3015674873",
+    "dirección": "Cra 9 N° 89 Barrio cantaclaro",
+    "deportistas":[25, 26]
+  },
+
+  {
+    "userId": 1,
+    "id": 3,
+    "nombre":"Aris",
+    "apellido":"Negrete",
+    "cedula":"003717356",
+    "celular":"3017856734",
+    "dirección": "Cra 34 N° 45 Barrio 6 de marzo",
+    "deportistas":[27, 28 ]
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "nombre": "William",
+    "apellido": "Sanchez",
+    "cedula": "26574596",
+    "celular": "3224565378",
+    "dirección": "Cra 7 N° 7 Barrio las flores",
+    "deportistas":[29, 30]
+  },
+
+  {
+    "userId": 1,
+    "id": 5,
+    "nombre":"Ivan",
+    "apellido":"Guerrero",
+    "cedula":"97347897",
+    "celular":"3115784883",
+    "dirección": "Cra 12 N° 9 Barrio catalina",
+    "deportistas":[31, 32]
+  },
+
+  {
+    "userId": 1,
+    "id": 6,
+    "nombre":"Ana",
+    "apellido":"Durango",
+    "cedula":"707779170",
+    "celular":"3227458930",
+    "dirección": "Cra 56 N° 4 Barrio los guamos",
+    "deportistas":[33, 34]
+  }
+]
